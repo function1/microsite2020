@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<content-type>/component/2upadapter</content-type>
+	<content-type>/component/2-up-adapter</content-type>
 	<display-template>/templates/web/components/adapters/2-up.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
