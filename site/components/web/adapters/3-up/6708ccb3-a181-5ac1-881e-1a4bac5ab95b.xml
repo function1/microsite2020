@@ -7,13 +7,13 @@
 	<objectGroupId>6708</objectGroupId>
 	<objectId>6708ccb3-a181-5ac1-881e-1a4bac5ab95b</objectId>
 	<internal-name>First 3-up Adapter</internal-name>
-	<title_s/>
-	<subtitle_s/>
+	<title_s>Title</title_s>
+	<subtitle_s>Subtitle</subtitle_s>
 	<file-name>6708ccb3-a181-5ac1-881e-1a4bac5ab95b.xml</file-name>
 	<createdDate>2020-01-28T02:28:53.042Z</createdDate>
 	<createdDate_dt>2020-01-28T02:28:53.042Z</createdDate_dt>
-	<lastModifiedDate>2020-01-28T17:41:58.707Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-28T17:41:58.707Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-02-15T00:08:44.311Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-15T00:08:44.311Z</lastModifiedDate_dt>
 	<slots_o item-list="true">	<item>	<slot1_o>		<item><key>/site/components/web/modules/text-block/0817fba6-39b1-9413-d73e-11bab502a62a.xml</key>
 <value>Text Block 3</value>
 <datasource>component</datasource>
