@@ -7,8 +7,8 @@
 	<objectGroupId>5823</objectGroupId>
 	<objectId>582340c9-222d-5d23-37a4-313b24ddbe72</objectId>
 	<internal-name>First 2up Adapter </internal-name>
-	<title_s>First 2-up Adapter</title_s>
-	<subtitle_s>Adapters are super handy</subtitle_s>
+	<title_s>First 2-up Adapter!</title_s>
+	<subtitle_s>Adapters are super handy!</subtitle_s>
 	<file-name>582340c9-222d-5d23-37a4-313b24ddbe72.xml</file-name>
 	<slots_o item-list="true">	<item>	<slot1_o>		<item><key>/site/components/content/books/ea9b0bdc-0777-d29d-1a30-83ed9b922733.xml</key>
 <value>Game of Thrones</value>
@@ -25,6 +25,6 @@
 	</item></slots_o>
 	<createdDate>2020-01-28T02:18:06.851Z</createdDate>
 	<createdDate_dt>2020-01-28T02:18:06.851Z</createdDate_dt>
-	<lastModifiedDate>2020-01-28T14:22:31.696Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-28T14:22:31.696Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-02-15T00:04:16.892Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-15T00:04:16.892Z</lastModifiedDate_dt>
 </component>
