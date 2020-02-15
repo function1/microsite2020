@@ -1,6 +1,6 @@
 <content-type name="/component/3upadapter" is-wcm-type="true">
 	<label>3-up Adapter</label>
-	<form>/component/3upadapter</form>
+	<form>/component/3-up-adapter</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
 	<file-extension>xml</file-extension>
