@@ -310,7 +310,7 @@
                 <field>
                     <type>image-picker</type>
                     <id>image_s</id>
-                    <iceId></iceId>
+                    <iceId>content</iceId>
                     <title>Image</title>
                     <description></description>
                     <defaultValue></defaultValue>
