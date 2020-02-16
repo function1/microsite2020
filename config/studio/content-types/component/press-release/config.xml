@@ -1,6 +1,6 @@
 <content-type name="/component/pressrelease" is-wcm-type="true">
 	<label>Press Release</label>
-	<form>/component/pressrelease</form>
+	<form>/component/press-release</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
 	<file-extension>xml</file-extension>

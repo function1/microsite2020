@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<content-type>/component/pressrelease</content-type>
+	<content-type>/component/press-release</content-type>
 	<display-template>/templates/web/components/press-release-summary.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
