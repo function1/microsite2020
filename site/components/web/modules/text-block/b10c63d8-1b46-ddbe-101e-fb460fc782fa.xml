@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<content-type>/component/textblock</content-type>
+	<content-type>/component/text-block</content-type>
 	<display-template>/templates/web/components/modules/textblock.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
