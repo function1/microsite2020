@@ -131,6 +131,13 @@
                         </constraint>
                     </constraints>
                 </field>
+            </fields>
+        </section>
+        <section>
+            <title>Main Content</title>
+            <description></description>
+            <defaultOpen>true</defaultOpen>
+            <fields>
                 <field>
                     <type>input</type>
                     <id>title_s</id>
@@ -142,12 +149,12 @@
                     <properties>
                         <property>
                             <name>size</name>
-                            <value>50</value>
+                            <value>80</value>
                             <type>int</type>
                         </property>
                         <property>
                             <name>maxlength</name>
-                            <value>100</value>
+                            <value>128</value>
                             <type>int</type>
                         </property>
                         <property>
@@ -185,12 +192,12 @@
                     <properties>
                         <property>
                             <name>size</name>
-                            <value>50</value>
+                            <value>80</value>
                             <type>int</type>
                         </property>
                         <property>
                             <name>maxlength</name>
-                            <value>50</value>
+                            <value>128</value>
                             <type>int</type>
                         </property>
                         <property>
@@ -360,7 +367,7 @@
                             <properties>
                                 <property>
                                     <name>size</name>
-                                    <value>50</value>
+                                    <value>80</value>
                                     <type>int</type>
                                 </property>
                                 <property>
