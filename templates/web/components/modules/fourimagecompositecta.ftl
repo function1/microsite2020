@@ -27,7 +27,7 @@
                 <#if model.images_o??>
                 <div class="hero-animation-img" <@studio.iceAttr iceGroup="images" label="Images" />>
                     <#list model.images_o.item as item>
-                        <img src="${item.image_s}" alt="${item.alttext_s}"
+                        <img src="${item.image_s}" alt="${item.alt_s}"
                                 <#if item?counter == 1>
                                     class="img-fluid d-block animation-one"
                                 </#if>

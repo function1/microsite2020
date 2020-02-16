@@ -149,7 +149,7 @@
                     <properties>
                         <property>
                             <name>size</name>
-                            <value>50</value>
+                            <value>80</value>
                             <type>int</type>
                         </property>
                         <property>
@@ -192,7 +192,7 @@
                     <properties>
                         <property>
                             <name>size</name>
-                            <value>50</value>
+                            <value>80</value>
                             <type>int</type>
                         </property>
                         <property>
@@ -235,17 +235,17 @@
                     <properties>
                         <property>
                             <name>width</name>
-                            <value>500</value>
+                            <value>600</value>
                             <type>int</type>
                         </property>
                         <property>
                             <name>height</name>
-                            <value>100</value>
+                            <value>200</value>
                             <type>int</type>
                         </property>
                         <property>
                             <name>autoGrow</name>
-                            <value>true</value>
+                            <value>false</value>
                             <type>boolean</type>
                         </property>
                         <property>
@@ -495,7 +495,7 @@
                         </field>
                         <field>
                             <type>input</type>
-                            <id>alttext_s</id>
+                            <id>alt_s</id>
                             <iceId>images</iceId>
                             <title>Alt Text</title>
                             <description></description>
@@ -504,12 +504,12 @@
                             <properties>
                                 <property>
                                     <name>size</name>
-                                    <value>50</value>
+                                    <value>80</value>
                                     <type>int</type>
                                 </property>
                                 <property>
                                     <name>maxlength</name>
-                                    <value>50</value>
+                                    <value>128</value>
                                     <type>int</type>
                                 </property>
                                 <property>
