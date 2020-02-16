@@ -131,6 +131,13 @@
                         </constraint>
                     </constraints>
                 </field>
+            </fields>
+        </section>
+        <section>
+            <title>Main Content</title>
+            <description></description>
+            <defaultOpen>true</defaultOpen>
+            <fields>
                 <field>
                     <type>input</type>
                     <id>title_s</id>
@@ -142,12 +149,12 @@
                     <properties>
                         <property>
                             <name>size</name>
-                            <value>50</value>
+                            <value>80</value>
                             <type>int</type>
                         </property>
                         <property>
                             <name>maxlength</name>
-                            <value>255</value>
+                            <value>128</value>
                             <type>int</type>
                         </property>
                         <property>
@@ -185,12 +192,12 @@
                     <properties>
                         <property>
                             <name>width</name>
-                            <value></value>
+                            <value>600</value>
                             <type>int</type>
                         </property>
                         <property>
                             <name>height</name>
-                            <value></value>
+                            <value>200</value>
                             <type>int</type>
                         </property>
                         <property>
@@ -271,7 +278,7 @@
                         <field>
                             <type>image-picker</type>
                             <id>image_s</id>
-                            <iceId></iceId>
+                            <iceId>images</iceId>
                             <title>Image</title>
                             <description></description>
                             <defaultValue></defaultValue>
@@ -323,7 +330,7 @@
                         <field>
                             <type>input</type>
                             <id>alttext_s</id>
-                            <iceId></iceId>
+                            <iceId>images</iceId>
                             <title>Alt text</title>
                             <description></description>
                             <defaultValue></defaultValue>
@@ -331,12 +338,12 @@
                             <properties>
                                 <property>
                                     <name>size</name>
-                                    <value>50</value>
+                                    <value>80</value>
                                     <type>int</type>
                                 </property>
                                 <property>
                                     <name>maxlength</name>
-                                    <value>255</value>
+                                    <value>128</value>
                                     <type>int</type>
                                 </property>
                                 <property>

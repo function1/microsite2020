@@ -17,7 +17,7 @@
                 <div class="owl-carousel owl-theme clients-carousel dot-indicator" <@studio.iceAttr iceGroup="images" label="Images" />>
                     <#list model.images_o.item as item>
                         <div class="item single-client">
-                            <img src="${item.image_s}" alt="${item.alttext_s}" class="client-img">
+                            <img src="${item.image_s}" alt="${item.alt_s}" class="client-img">
                         </div>
                     </#list>
                 </div>

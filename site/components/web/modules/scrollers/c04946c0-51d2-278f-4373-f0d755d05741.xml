@@ -12,31 +12,31 @@
     <images_o item-list="true">
         <item>
             <image_s>/static-assets/content/images/scrollers/airbnb-logo.png</image_s>
-            <alttext_s>Client 4</alttext_s>
+            <alt_s>Client 4</alt_s>
         </item>
         <item>
             <image_s>/static-assets/content/images/scrollers/amazon-logo.png</image_s>
-            <alttext_s>Client 1</alttext_s>
+            <alt_s>Client 1</alt_s>
         </item>
         <item>
             <image_s>/static-assets/content/images/scrollers/paypal-logo.png</image_s>
-            <alttext_s>Client 2</alttext_s>
+            <alt_s>Client 2</alt_s>
         </item>
         <item>
             <image_s>/static-assets/content/images/scrollers/shop-bot-logo.png</image_s>
-            <alttext_s>Client 3</alttext_s>
+            <alt_s>Client 3</alt_s>
         </item>
         <item>
             <image_s>/static-assets/content/images/scrollers/slack-logo.png</image_s>
-            <alttext_s>Client 5</alttext_s>
+            <alt_s>Client 5</alt_s>
         </item>
         <item>
             <image_s>/static-assets/content/images/scrollers/spotify-logo.png</image_s>
-            <alttext_s>Client 6</alttext_s>
+            <alt_s>Client 6</alt_s>
         </item>
         <item>
             <image_s>/static-assets/content/images/scrollers/stripe-logo.png</image_s>
-            <alttext_s>Seventh Client</alttext_s>
+            <alt_s>Seventh Client</alt_s>
         </item>
     </images_o>
     <createdDate>2020-01-15T01:31:53.572Z</createdDate>
