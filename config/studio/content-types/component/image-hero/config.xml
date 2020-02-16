@@ -1,6 +1,6 @@
 <content-type name="/component/imagehero" is-wcm-type="true">
 	<label>Image Hero</label>
-	<form>/component/imagehero</form>
+	<form>/component/image-hero</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
 	<file-extension>xml</file-extension>

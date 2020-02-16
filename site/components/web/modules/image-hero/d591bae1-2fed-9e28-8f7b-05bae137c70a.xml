@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<content-type>/component/imagehero</content-type>
+	<content-type>/component/image-hero</content-type>
 	<display-template>/templates/web/components/modules/image-hero.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
