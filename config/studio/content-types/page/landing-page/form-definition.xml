@@ -242,12 +242,12 @@
                     <properties>
                         <property>
                             <name>cols</name>
-                            <value>50</value>
+                            <value>100</value>
                             <type>int</type>
                         </property>
                         <property>
                             <name>rows</name>
-                            <value>5</value>
+                            <value>2</value>
                             <type>int</type>
                         </property>
                         <property>
