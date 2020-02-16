@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-    <content-type>/component/fourimagecompositecta</content-type>
+    <content-type>/component/4-image-composite-cta</content-type>
     <display-template>/templates/web/components/modules/fourimagecompositecta.ftl</display-template>
     <no-template-required/>
     <merge-strategy>inherit-levels</merge-strategy>

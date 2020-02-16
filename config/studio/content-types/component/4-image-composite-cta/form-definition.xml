@@ -2,7 +2,7 @@
     <title>Four-image Composite CTA</title>
     <description></description>
     <objectType>component</objectType>
-    <content-type>/component/fourimagecompositecta</content-type>
+    <content-type>/component/4-image-composite-cta</content-type>
     <imageThumbnail>undefined</imageThumbnail>
     <quickCreate>true</quickCreate>
     <quickCreatePath>/site/components/web/modules/four-image-composite-cta</quickCreatePath>
