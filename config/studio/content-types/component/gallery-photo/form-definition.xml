@@ -2,7 +2,7 @@
     <title>Gallery Photo</title>
     <description></description>
     <objectType>component</objectType>
-    <content-type>/component/galleryphoto</content-type>
+    <content-type>/component/gallery-photo</content-type>
     <imageThumbnail>undefined</imageThumbnail>
     <quickCreate>true</quickCreate>
     <quickCreatePath>/site/components/content/gallery-photos/{yyyy}/</quickCreatePath>

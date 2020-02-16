@@ -1,6 +1,6 @@
 <content-type name="/component/galleryphoto" is-wcm-type="true">
 	<label>Gallery Photo</label>
-	<form>/component/galleryphoto</form>
+	<form>/component/gallery-photo</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
 	<file-extension>xml</file-extension>

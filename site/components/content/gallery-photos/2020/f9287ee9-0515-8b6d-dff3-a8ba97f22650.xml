@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<content-type>/component/galleryphoto</content-type>
+	<content-type>/component/gallery-photo</content-type>
 	<display-template>/templates/web/components/gallery-photo.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
