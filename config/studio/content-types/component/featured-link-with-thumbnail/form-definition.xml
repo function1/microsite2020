@@ -2,7 +2,7 @@
     <title>Featured Link with Thumbnail</title>
     <description></description>
     <objectType>component</objectType>
-    <content-type>/component/featuredlinkwiththumbnail</content-type>
+    <content-type>/component/featured-link-with-thumbnail</content-type>
     <imageThumbnail>undefined</imageThumbnail>
     <quickCreate>true</quickCreate>
     <quickCreatePath>/site/components/web/modules/featured-links</quickCreatePath>

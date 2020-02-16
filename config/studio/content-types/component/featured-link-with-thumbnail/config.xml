@@ -1,6 +1,6 @@
 <content-type name="/component/featuredlinkwiththumbnail" is-wcm-type="true">
 	<label>Featured Link with Thumbnail</label>
-	<form>/component/featuredlinkwiththumbnail</form>
+	<form>/component/featured-link-with-thumbnail</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
 	<file-extension>xml</file-extension>

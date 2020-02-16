@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<content-type>/component/featuredlinkwiththumbnail</content-type>
+	<content-type>/component/featured-link-with-thumbnail</content-type>
 	<display-template>/templates/web/components/modules/featured-link-with-thumbnail.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
