@@ -1,6 +1,6 @@
 <content-type name="/component/infocards" is-wcm-type="true">
 	<label>Info Card Set</label>
-	<form>/component/infocards</form>
+	<form>/component/info-cards</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
 	<file-extension>xml</file-extension>

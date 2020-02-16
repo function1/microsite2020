@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-    <content-type>/component/infocards</content-type>
+    <content-type>/component/info-cards</content-type>
     <display-template>/templates/web/components/modules/infocards.ftl</display-template>
     <no-template-required/>
     <merge-strategy>inherit-levels</merge-strategy>

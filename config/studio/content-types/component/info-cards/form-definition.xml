@@ -2,7 +2,7 @@
     <title>Info Card Set</title>
     <description></description>
     <objectType>component</objectType>
-    <content-type>/component/infocards</content-type>
+    <content-type>/component/info-cards</content-type>
     <imageThumbnail>undefined</imageThumbnail>
     <quickCreate>true</quickCreate>
     <quickCreatePath>/site/components/web/modules/info-card-sets</quickCreatePath>
