@@ -233,7 +233,7 @@
                             <type>input</type>
                             <id>keyword_s</id>
                             <iceId></iceId>
-                            <title>keyword</title>
+                            <title>Keyword</title>
                             <description></description>
                             <defaultValue></defaultValue>
                             <help></help>
