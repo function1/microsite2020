@@ -2,7 +2,7 @@
     <title>Key Points</title>
     <description></description>
     <objectType>component</objectType>
-    <content-type>/component/keypoints</content-type>
+    <content-type>/component/key-points</content-type>
     <imageThumbnail>undefined</imageThumbnail>
     <quickCreate>true</quickCreate>
     <quickCreatePath>/site/components/web/modules/key-points</quickCreatePath>

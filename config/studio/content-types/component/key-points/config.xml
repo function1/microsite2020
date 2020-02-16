@@ -1,6 +1,6 @@
 <content-type name="/component/keypoints" is-wcm-type="true">
 	<label>Key Points</label>
-	<form>/component/keypoints</form>
+	<form>/component/key-points</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
 	<file-extension>xml</file-extension>
