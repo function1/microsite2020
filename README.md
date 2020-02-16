@@ -29,17 +29,15 @@ https://function1.com
 - move blueprint images to new location
 - remove unused site artifacts
 - switch to generic skin
-- bio social media links
-- add reviewer to book
 - add labels for "watch now" "listen now" and other static strings.
 - add new item through node picker puts all nodes directly into /components - fix to position similar to quickLinks
 - add required flags on last few types
 - ensure that field default settings / sizes match conventions
-- add media contact pointer to bio into the Press Relese
 - display body of press release in new press release detail template
+- add hyphen to all content type names
 
 ### Planned Future Features
-- Photo Gallery Support
+- Photo Gallery Support 3-col-featured-photo-gallery
 - Venue support
 - Event support
     - Single event content type
@@ -50,6 +48,9 @@ https://function1.com
 - Programmatically controlled navigation (stand-alone page and jump nav)
 - Email contact form (Lambda or Netlify email)
 - Possible implementation of static / headless delivery on AWS/Netlify via Gatsby
+- bio social media links
+- add reviewer to book
+- add media contact pointer to bio into the Press Relese
 
 ### Version 0.2.6 January 27, 2020
 Fix bug introduced in 0.2.5 relating to studio performance fix - include freemarker library but not javascript.  Crafter 3.1.5 support.
