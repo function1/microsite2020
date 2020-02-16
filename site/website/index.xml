@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/landingpage</content-type>
+	<content-type>/page/landing-page</content-type>
 	<display-template>/templates/web/pages/landingpage.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
