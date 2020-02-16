@@ -131,12 +131,12 @@
                     <properties>
                         <property>
                             <name>size</name>
-                            <value>50</value>
+                            <value>80</value>
                             <type>int</type>
                         </property>
                         <property>
                             <name>maxlength</name>
-                            <value>200</value>
+                            <value>128</value>
                             <type>int</type>
                         </property>
                         <property>
@@ -195,12 +195,12 @@
                             <properties>
                                 <property>
                                     <name>size</name>
-                                    <value>50</value>
+                                    <value>80</value>
                                     <type>int</type>
                                 </property>
                                 <property>
                                     <name>maxlength</name>
-                                    <value>100</value>
+                                    <value>128</value>
                                     <type>int</type>
                                 </property>
                                 <property>
@@ -231,13 +231,13 @@
                 </field>
                 <field>
                     <type>textarea</type>
-                    <id>description_t</id>
+                    <id>metadescription_t</id>
                     <iceId></iceId>
                     <title>Description</title>
                     <description>Search engine result snippet</description>
                     <defaultValue></defaultValue>
                     <help>&lt;p&gt;Enter the search engine result snippet. If not specified, the search engine will
-                        attempt to create one forr you.&lt;/p&gt;
+                        attempt to create one for you.&lt;/p&gt;
                     </help>
                     <properties>
                         <property>
@@ -252,7 +252,7 @@
                         </property>
                         <property>
                             <name>maxlength</name>
-                            <value>255</value>
+                            <value>158</value>
                             <type>int</type>
                         </property>
                         <property>

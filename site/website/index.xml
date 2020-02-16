@@ -1,81 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/landing-page</content-type>
-	<display-template>/templates/web/pages/landingpage.ftl</display-template>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>8d7f</objectGroupId>
-	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
-	<file-name>index.xml</file-name>
-	<internal-name>Home</internal-name>
-	<title_s>Microsite 2020</title_s>
-	<placeInNav>false</placeInNav>
-	<orderDefault_f>-1</orderDefault_f>
-	<description_t>Landing page 4 from the Microsite 2020 site blueprint from Function1.</description_t>
-	<sections_o item-list="true">	<item datasource="sectionComponents">	<key>/site/components/web/modules/four-image-composite-cta/074aa5c3-d607-5910-aa6e-1116810f43b1.xml</key>
-	<value>Home Hero 2</value>
-	<include>/site/components/web/modules/four-image-composite-cta/074aa5c3-d607-5910-aa6e-1116810f43b1.xml
+    <content-type>/page/landing-page</content-type>
+    <display-template>/templates/web/pages/landingpage.ftl</display-template>
+    <no-template-required/>
+    <merge-strategy>inherit-levels</merge-strategy>
+    <objectGroupId>8d7f</objectGroupId>
+    <objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+    <file-name>index.xml</file-name>
+    <internal-name>Home</internal-name>
+    <title_s>Microsite 2020</title_s>
+    <placeInNav>false</placeInNav>
+    <orderDefault_f>-1</orderDefault_f>
+    <metadescription_t>Landing page 4 from the Microsite 2020 site blueprint from Function1.</metadescription_t>
+    <sections_o item-list="true">
+        <item datasource="sectionComponents">
+            <key>/site/components/web/modules/four-image-composite-cta/074aa5c3-d607-5910-aa6e-1116810f43b1.xml</key>
+            <value>Home Hero 2</value>
+            <include>/site/components/web/modules/four-image-composite-cta/074aa5c3-d607-5910-aa6e-1116810f43b1.xml
             </include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/adapters/3-up/6708ccb3-a181-5ac1-881e-1a4bac5ab95b.xml</key>
-	<value>First 3-up Adapter</value>
-	<include>/site/components/web/adapters/3-up/6708ccb3-a181-5ac1-881e-1a4bac5ab95b.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/image-hero/d591bae1-2fed-9e28-8f7b-05bae137c70a.xml</key>
-	<value>First Image Hero</value>
-	<include>/site/components/web/modules/image-hero/d591bae1-2fed-9e28-8f7b-05bae137c70a.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/adapters/2-up/8ea7c3ba-58d5-c3eb-bbb8-5af6e5804d7b.xml</key>
-	<value>Movie 2up</value>
-	<include>/site/components/web/adapters/2-up/8ea7c3ba-58d5-c3eb-bbb8-5af6e5804d7b.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/adapters/2-up/582340c9-222d-5d23-37a4-313b24ddbe72.xml</key>
-	<value>First 2up Adapter </value>
-	<include>/site/components/web/adapters/2-up/582340c9-222d-5d23-37a4-313b24ddbe72.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/key-points/1e329991-0921-cc3d-1439-ca5a62c123e0.xml</key>
-	<value>Key Points 2</value>
-	<include>/site/components/web/modules/key-points/1e329991-0921-cc3d-1439-ca5a62c123e0.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/info-card-sets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</key>
-	<value>Default Info Card Set</value>
-	<include>/site/components/web/modules/info-card-sets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/text-block/b10c63d8-1b46-ddbe-101e-fb460fc782fa.xml</key>
-	<value>My First Text Block</value>
-	<include>/site/components/web/modules/text-block/b10c63d8-1b46-ddbe-101e-fb460fc782fa.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</key>
-	<value>Trusted By Companies</value>
-	<include>/site/components/web/modules/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/scrollers/cacae55b-7fe1-32f1-45ee-51a336799095.xml</key>
-	<value>Another Scroller</value>
-	<include>/site/components/web/modules/scrollers/cacae55b-7fe1-32f1-45ee-51a336799095.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/4525c71e-344b-1c6f-71c4-5bb03e2c73e7.xml</key>
-	<value>Press Release Testing Container</value>
-	<include>/site/components/web/4525c71e-344b-1c6f-71c4-5bb03e2c73e7.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item></sections_o>
-	<keywords_o item-list="true">	<item>	<keyword_s>microsite</keyword_s>
-	</item>	<item>	<keyword_s>landing page</keyword_s>
-	</item>	<item>	<keyword_s>function1</keyword_s>
-	</item>	<item>	<keyword_s>sections</keyword_s>
-	</item>	<item>	<keyword_s>responsive</keyword_s>
-	</item></keywords_o>
-	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
-	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-02-16T17:24:31.734Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-02-16T17:24:31.734Z</lastModifiedDate_dt>
-	<folder-name/>
-	<links_o item-list="true">	<item>	<title_s>Home</title_s>
-	<sectionid_s>home</sectionid_s>
-	</item>	<item>	<title_s>Section 1</title_s>
-	<sectionid_s>info</sectionid_s>
-	</item>	<item>	<title_s>Section 2</title_s>
-	<sectionid_s>points</sectionid_s>
-	</item>	<item>	<title_s>Section 3</title_s>
-	<sectionid_s>trusted</sectionid_s>
-	</item></links_o>
+            <disableFlattening>false</disableFlattening>
+        </item>
+        <item datasource="sectionComponents">
+            <key>/site/components/web/adapters/3-up/6708ccb3-a181-5ac1-881e-1a4bac5ab95b.xml</key>
+            <value>First 3-up Adapter</value>
+            <include>/site/components/web/adapters/3-up/6708ccb3-a181-5ac1-881e-1a4bac5ab95b.xml</include>
+            <disableFlattening>false</disableFlattening>
+        </item>
+        <item datasource="sectionComponents">
+            <key>/site/components/web/modules/image-hero/d591bae1-2fed-9e28-8f7b-05bae137c70a.xml</key>
+            <value>First Image Hero</value>
+            <include>/site/components/web/modules/image-hero/d591bae1-2fed-9e28-8f7b-05bae137c70a.xml</include>
+            <disableFlattening>false</disableFlattening>
+        </item>
+        <item datasource="sectionComponents">
+            <key>/site/components/web/adapters/2-up/8ea7c3ba-58d5-c3eb-bbb8-5af6e5804d7b.xml</key>
+            <value>Movie 2up</value>
+            <include>/site/components/web/adapters/2-up/8ea7c3ba-58d5-c3eb-bbb8-5af6e5804d7b.xml</include>
+            <disableFlattening>false</disableFlattening>
+        </item>
+        <item datasource="sectionComponents">
+            <key>/site/components/web/adapters/2-up/582340c9-222d-5d23-37a4-313b24ddbe72.xml</key>
+            <value>First 2up Adapter</value>
+            <include>/site/components/web/adapters/2-up/582340c9-222d-5d23-37a4-313b24ddbe72.xml</include>
+            <disableFlattening>false</disableFlattening>
+        </item>
+        <item datasource="sectionComponents">
+            <key>/site/components/web/modules/key-points/1e329991-0921-cc3d-1439-ca5a62c123e0.xml</key>
+            <value>Key Points 2</value>
+            <include>/site/components/web/modules/key-points/1e329991-0921-cc3d-1439-ca5a62c123e0.xml</include>
+            <disableFlattening>false</disableFlattening>
+        </item>
+        <item datasource="sectionComponents">
+            <key>/site/components/web/modules/info-card-sets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</key>
+            <value>Default Info Card Set</value>
+            <include>/site/components/web/modules/info-card-sets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</include>
+            <disableFlattening>false</disableFlattening>
+        </item>
+        <item datasource="sectionComponents">
+            <key>/site/components/web/modules/text-block/b10c63d8-1b46-ddbe-101e-fb460fc782fa.xml</key>
+            <value>My First Text Block</value>
+            <include>/site/components/web/modules/text-block/b10c63d8-1b46-ddbe-101e-fb460fc782fa.xml</include>
+            <disableFlattening>false</disableFlattening>
+        </item>
+        <item datasource="sectionComponents">
+            <key>/site/components/web/modules/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</key>
+            <value>Trusted By Companies</value>
+            <include>/site/components/web/modules/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</include>
+            <disableFlattening>false</disableFlattening>
+        </item>
+        <item datasource="sectionComponents">
+            <key>/site/components/web/modules/scrollers/cacae55b-7fe1-32f1-45ee-51a336799095.xml</key>
+            <value>Another Scroller</value>
+            <include>/site/components/web/modules/scrollers/cacae55b-7fe1-32f1-45ee-51a336799095.xml</include>
+            <disableFlattening>false</disableFlattening>
+        </item>
+        <item datasource="sectionComponents">
+            <key>/site/components/web/4525c71e-344b-1c6f-71c4-5bb03e2c73e7.xml</key>
+            <value>Press Release Testing Container</value>
+            <include>/site/components/web/4525c71e-344b-1c6f-71c4-5bb03e2c73e7.xml</include>
+            <disableFlattening>false</disableFlattening>
+        </item>
+    </sections_o>
+    <keywords_o item-list="true">
+        <item>
+            <keyword_s>microsite</keyword_s>
+        </item>
+        <item>
+            <keyword_s>landing page</keyword_s>
+        </item>
+        <item>
+            <keyword_s>function1</keyword_s>
+        </item>
+        <item>
+            <keyword_s>sections</keyword_s>
+        </item>
+        <item>
+            <keyword_s>responsive</keyword_s>
+        </item>
+    </keywords_o>
+    <createdDate>2020-01-14T23:48:14.728Z</createdDate>
+    <createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
+    <lastModifiedDate>2020-02-16T17:24:31.734Z</lastModifiedDate>
+    <lastModifiedDate_dt>2020-02-16T17:24:31.734Z</lastModifiedDate_dt>
+    <folder-name/>
+    <links_o item-list="true">
+        <item>
+            <title_s>Home</title_s>
+            <sectionid_s>home</sectionid_s>
+        </item>
+        <item>
+            <title_s>Section 1</title_s>
+            <sectionid_s>info</sectionid_s>
+        </item>
+        <item>
+            <title_s>Section 2</title_s>
+            <sectionid_s>points</sectionid_s>
+        </item>
+        <item>
+            <title_s>Section 3</title_s>
+            <sectionid_s>trusted</sectionid_s>
+        </item>
+    </links_o>
 </page>

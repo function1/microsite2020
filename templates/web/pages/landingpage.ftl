@@ -6,13 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="description" content="${model.description_t}" />
+    <meta name="description" content="${model.metadescription_t}" />
     <meta name="author" content="Function1">
 
     <meta property="og:site_name" content=""/> <!-- website name -->
     <meta property="og:site" content=""/> <!-- website link -->
     <meta property="og:title" content="${model.title_s}"/> <!-- title shown in the actual shared post -->
-    <meta property="og:description" content="${model.description_t}"/> <!-- description shown in the actual shared post -->
+    <meta property="og:description" content="${model.metadescription_t}"/> <!-- description shown in the actual shared post -->
     <meta property="og:image" content=""/> <!-- image link, make sure it's jpg -->
     <meta property="og:url" content=""/> <!-- where do you want your post to link to -->
     <meta property="og:type" content="article"/>
