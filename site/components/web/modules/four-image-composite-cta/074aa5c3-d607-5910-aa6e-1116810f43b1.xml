@@ -1,31 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<content-type>/component/4-image-composite-cta</content-type>
-	<display-template>/templates/web/components/modules/fourimagecompositecta.ftl</display-template>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>074a</objectGroupId>
-	<objectId>074aa5c3-d607-5910-aa6e-1116810f43b1</objectId>
-	<file-name>074aa5c3-d607-5910-aa6e-1116810f43b1.xml</file-name>
-	<internal-name>Home Hero 2</internal-name>
-	<createdDate>2020-01-15T02:37:00.802Z</createdDate>
-	<createdDate_dt>2020-01-15T02:37:00.802Z</createdDate_dt>
-	<lastModifiedDate>2020-02-16T16:01:36.826Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-02-16T16:01:36.826Z</lastModifiedDate_dt>
-	<title_s>Microsite 2020</title_s>
-	<subtitle_s>simple microsite blueprint</subtitle_s>
-	<text_s>Take Action!</text_s>
-	<target_s>https://function1.com/</target_s>
-	<includeFloatingDots_b>true</includeFloatingDots_b>
-	<description_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim &lt;strong&gt;veniam&lt;/strong&gt;&lt;/p&gt;</description_html>
-	<images_o item-list="true">	<item>	<image_s>/static-assets/content/images/four-image-composite-cta/hero-animation-04.png</image_s>
-	<alttext_s>Hero Animation 4</alttext_s>
-	</item>	<item>	<alttext_s>Hero Animation 1</alttext_s>
-	<image_s>/static-assets/content/images/four-image-composite-cta/hero-animation-01.png</image_s>
-	</item>	<item>	<image_s>/static-assets/content/images/four-image-composite-cta/hero-animation-02.png</image_s>
-	<alttext_s>Hero Animation 2</alttext_s>
-	</item>	<item>	<image_s>/static-assets/content/images/four-image-composite-cta/hero-animation-03.png</image_s>
-	<alttext_s>Hero Animation 3</alttext_s>
-	</item></images_o>
-	<sectionid_s>home</sectionid_s>
+    <content-type>/component/4-image-composite-cta</content-type>
+    <display-template>/templates/web/components/modules/fourimagecompositecta.ftl</display-template>
+    <no-template-required/>
+    <merge-strategy>inherit-levels</merge-strategy>
+    <objectGroupId>074a</objectGroupId>
+    <objectId>074aa5c3-d607-5910-aa6e-1116810f43b1</objectId>
+    <file-name>074aa5c3-d607-5910-aa6e-1116810f43b1.xml</file-name>
+    <internal-name>Home Hero 2</internal-name>
+    <createdDate>2020-01-15T02:37:00.802Z</createdDate>
+    <createdDate_dt>2020-01-15T02:37:00.802Z</createdDate_dt>
+    <lastModifiedDate>2020-02-16T16:01:36.826Z</lastModifiedDate>
+    <lastModifiedDate_dt>2020-02-16T16:01:36.826Z</lastModifiedDate_dt>
+    <title_s>Microsite 2020</title_s>
+    <subtitle_s>simple microsite blueprint</subtitle_s>
+    <text_s>Take Action!</text_s>
+    <target_s>https://function1.com/</target_s>
+    <includeFloatingDots_b>true</includeFloatingDots_b>
+    <description_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+        ut labore et dolore magna aliqua. Ut enim ad minim &lt;strong&gt;veniam&lt;/strong&gt;&lt;/p&gt;
+    </description_html>
+    <images_o item-list="true">
+        <item>
+            <image_s>/static-assets/content/images/four-image-composite-cta/hero-animation-04.png</image_s>
+            <alt_s>Hero Animation 4</alt_s>
+        </item>
+        <item>
+            <alt_s>Hero Animation 1</alt_s>
+            <image_s>/static-assets/content/images/four-image-composite-cta/hero-animation-01.png</image_s>
+        </item>
+        <item>
+            <image_s>/static-assets/content/images/four-image-composite-cta/hero-animation-02.png</image_s>
+            <alt_s>Hero Animation 2</alt_s>
+        </item>
+        <item>
+            <image_s>/static-assets/content/images/four-image-composite-cta/hero-animation-03.png</image_s>
+            <alt_s>Hero Animation 3</alt_s>
+        </item>
+    </images_o>
+    <sectionid_s>home</sectionid_s>
 </component>
