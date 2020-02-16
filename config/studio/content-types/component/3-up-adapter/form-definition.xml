@@ -28,7 +28,7 @@
     </properties>
 	<sections>
 		<section>
-			<title>2-up Adapter Properties</title>
+			<title>Main Content</title>
 			<description></description>
 			<defaultOpen>true</defaultOpen>
 			<fields>
