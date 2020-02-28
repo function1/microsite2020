@@ -29,10 +29,6 @@
 	<value>Trusted By Companies</value>
 	<include>/site/components/web/modules/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/scrollers/cacae55b-7fe1-32f1-45ee-51a336799095.xml</key>
-	<value>Another Scroller</value>
-	<include>/site/components/web/modules/scrollers/cacae55b-7fe1-32f1-45ee-51a336799095.xml</include>
-	<disableFlattening>false</disableFlattening>
 	</item></sections_o>
 	<keywords_o item-list="true">	<item>	<keyword_s>microsite</keyword_s>
 	</item>	<item>	<keyword_s>landing page</keyword_s>
@@ -42,8 +38,8 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-02-28T21:42:02.092Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-02-28T21:42:02.092Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-02-28T21:42:41.569Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-28T21:42:41.569Z</lastModifiedDate_dt>
 	<folder-name/>
 	<links_o item-list="true">	<item>	<title_s>Home</title_s>
 	<sectionid_s>home</sectionid_s>
