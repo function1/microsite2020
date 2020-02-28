@@ -15,10 +15,12 @@ plugin:
     - landingpage
   version:
     major: 0
-    minor: 2
-    patch: 6
+    minor: 3
+    patch: 0
   description: |
-    A simple microsite template for Crafter. Initial version supports a single landing page. Blogs, articles, and more coming soon.
+    A simple microsite template for Crafter. Current version supports a single landing page with
+    drop-in support for multiple other content types, including images, vidoes, caraousels, and more.
+    Blogs, articles, dynamic navigation, and more coming soon.  See included README for details.
   website:
     name: Microsite 2020
     url: https://function1.com/

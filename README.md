@@ -22,21 +22,18 @@ https://function1.com
 #
 
 ### Known Issues
-- Site defaults need to be configured
-- add icons to sidebar
-- add security / roles
-- images for start menu items need to be added
-- move blueprint images to new location
-- remove unused site artifacts
-- switch to generic skin
-- add labels for "watch now" "listen now" and other static strings.
-- add new item through node picker puts all nodes directly into /components - fix to position similar to quickLinks
-- add required flags on last few types
-- ensure that field default settings / sizes match conventions
-- display body of press release in new press release detail template
-- add hyphen to all content type names
+- Site defaults are not configurable
+- Sidebar does not have custom icons
+- Images for start menu items need to be added
+- Blueprint images should be moved to a new location
+- Unused site artifacts should be deleted
+- Hard-coded text - "watch now" and "listen now" - should be replaced with localizable constant strings.
+- Node picker "add new" needs to position content in a location similar to QuickLinks
 
 ### Planned Future Features
+- Display body of press release in new press release detail template
+- Add security / roles
+- Switch to generic skin
 - Photo Gallery Support 3-col-featured-photo-gallery
 - Venue support
 - Event support
@@ -48,9 +45,12 @@ https://function1.com
 - Programmatically controlled navigation (stand-alone page and jump nav)
 - Email contact form (Lambda or Netlify email)
 - Possible implementation of static / headless delivery on AWS/Netlify via Gatsby
-- bio social media links
-- add reviewer to book
-- add media contact pointer to bio into the Press Relese
+- Bio social media links
+- Add reviewer to book
+- Add media contact pointer to bio into the Press Release
+
+### Version 0.3.0 Feburary 28, 2020
+Major overhaul of content model. Adopted new path and content type naming conventions. Provided default templates for all new content types.
 
 ### Version 0.2.6 January 27, 2020
 Fix bug introduced in 0.2.5 relating to studio performance fix - include freemarker library but not javascript.  Crafter 3.1.5 support.
